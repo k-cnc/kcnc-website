@@ -1,4 +1,4 @@
-# K-CNC Engineering & Consultancy Website
+# KCNC Engineering & Consultancy Website
 GitHub Pages-ready static website for **www.kcnc.in**.
 
 GitHub username: `k-cnc`
