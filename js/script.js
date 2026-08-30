@@ -1,3 +1,3 @@
 const m=document.querySelector('.menu'),n=document.querySelector('.nav nav');if(m&&n)m.onclick=()=>n.classList.toggle('open');const y=document.getElementById('year');if(y)y.textContent=new Date().getFullYear();
-const KCNC_EMAIL="REPLACE-WITH-YOUR-EMAIL";
+const KCNC_EMAIL="info@kcnc.in";
 function sendMail(e){e.preventDefault();const d=new FormData(e.target);if(KCNC_EMAIL==="REPLACE-WITH-YOUR-EMAIL"){alert("Please add your business email in js/script.js before publishing.");return false}const s=encodeURIComponent("K-CNC Website Enquiry - "+(d.get("company")||d.get("name")||""));const b=encodeURIComponent("Name: "+d.get("name")+"\nCompany: "+d.get("company")+"\nEmail: "+d.get("email")+"\n\nRequirement:\n"+d.get("message"));location.href="mailto:"+KCNC_EMAIL+"?subject="+s+"&body="+b;return false}

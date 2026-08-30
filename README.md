@@ -1,23 +1,21 @@
-kcnc-website/
-│
-├── index.html
-├── about.html
-├── services.html
-├── machines.html
-├── automotive.html
-├── projects.html
-├── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│   ├── kcnc-logo.png
-│   ├── cnc-machine.jpg
-│   ├── mould-machining.jpg
-│   └── automotive-mould.jpg
-│
-└── CNAME
+# K-CNC Engineering & Consultancy Website
+GitHub Pages-ready static website for **www.kcnc.in**.
+
+GitHub username: `k-cnc`
+Repository: `kcnc-website`
+
+## Publish
+1. Upload all files and folders to the repository root.
+2. GitHub: Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+3. Set Custom domain to `www.kcnc.in`.
+4. At BigRock DNS create CNAME: host `www` → target `k-cnc.github.io`.
+5. After DNS propagates, enable Enforce HTTPS.
+
+## Before launch
+Replace contact placeholders in `contact.html` and set `KCNC_EMAIL` in `js/script.js`.
+
+
+## Configured business contact
+- Email: info@kcnc.in
+- Phone / WhatsApp: +91 95859 26248 / +27 83 966 8702
+- Locations: Coimbatore, Tamil Nadu, India & Johannesburg, South Africa
