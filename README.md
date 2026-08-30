@@ -19,3 +19,6 @@ Replace contact placeholders in `contact.html` and set `KCNC_EMAIL` in `js/scrip
 - Email: info@kcnc.in
 - Phone / WhatsApp: +91 95859 26248 / +27 83 966 8702
 - Locations: Coimbatore, Tamil Nadu, India & Johannesburg, South Africa
+
+
+Machine manufacturer coverage added: Mazak, Makino, Okuma, Kitamura, Sodick, Mitsui Seiki, Matsuura, OKK and LMW. Manufacturer names indicate technical familiarity only and do not imply representation.
