@@ -86,3 +86,10 @@ footer{background:#f5f9fd;color:#596a7b;padding:40px 0 18px;border-top:1px solid
 .service-coverage-label{font-size:12px;font-weight:900;letter-spacing:.12em;color:#0867c8}
 .service-coverage-inner strong{font-size:15px}
 @media(max-width:620px){.service-coverage-inner{flex-direction:column;gap:5px;padding:13px 16px}}
+
+/* Contact actions */
+.whatsapp-link{display:inline-flex;align-items:center;gap:7px;margin:3px 0;padding:7px 10px;border:1px solid #cfe1f2;border-radius:8px;background:#f5faff;color:var(--blue);font-weight:800;text-decoration:none}
+.whatsapp-link:before{content:"WhatsApp";font-size:10px;letter-spacing:.05em;text-transform:uppercase;color:#35546f}
+.whatsapp-link:hover{background:var(--blue-soft);border-color:#a9cbea}
+.form-honey{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;opacity:0!important;pointer-events:none!important}
+.form-success{margin:12px 0 18px;padding:12px 14px;border:1px solid #b8dec7;border-radius:10px;background:#f1fbf5;color:#176b3a;font-weight:800}
