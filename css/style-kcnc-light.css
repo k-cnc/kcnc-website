@@ -79,3 +79,10 @@ footer{background:#f5f9fd;color:#596a7b;padding:40px 0 18px;border-top:1px solid
 @media(max-width:1120px){.app-grid-icons{grid-template-columns:repeat(4,1fr)}}
 @media(max-width:920px){.app-grid-icons{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:620px){.application-expertise-section{padding:44px 0}.application-heading h2{font-size:26px}.app-grid-icons{grid-template-columns:1fr}.app-grid-icons .app-card{min-height:auto}}
+
+/* Service coverage notice */
+.service-coverage{background:#f2f8ff;border-top:1px solid #dbeafb;border-bottom:1px solid #dbeafb}
+.service-coverage-inner{display:flex;align-items:center;justify-content:center;gap:18px;padding:15px 20px;text-align:center;color:#0b1834}
+.service-coverage-label{font-size:12px;font-weight:900;letter-spacing:.12em;color:#0867c8}
+.service-coverage-inner strong{font-size:15px}
+@media(max-width:620px){.service-coverage-inner{flex-direction:column;gap:5px;padding:13px 16px}}
