@@ -25,3 +25,13 @@ Machine manufacturer coverage added: Mazak, Makino, Okuma, Kitamura, Sodick, Mit
 
 
 September 2026 manufacturer coverage update: added APEC, AWEA, HERMLE, HURON, I.M.S.A., DMG MORI, Mitsubishi Wire EDM, Mitsubishi EDM and Sodick EDM to the independent technology-experience sections.
+
+
+## KCNC Website v2 update — 8 September 2026
+- Preserves the supplied KCNC logo and existing blue/navy/cyan/silver/white theme.
+- Adds dedicated manufacturer, toolholder, CAM software, touch probe, industries and downloads pages.
+- Adds Privacy Policy, Terms, Cookie Policy, Independent Consultancy Disclaimer and Copyright & Trademark Notice.
+- Adds footer legal links, sitemap.xml and robots.txt.
+- Adds a privacy acknowledgement checkbox to the contact form.
+- No Cloudflare Web Analytics token is embedded because no site token was supplied. Enable Web Analytics in Cloudflare and add its generated beacon only when available.
+- Legal pages are general website text and should be reviewed by counsel for any jurisdiction-specific requirements.
