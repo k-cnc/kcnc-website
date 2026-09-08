@@ -94,5 +94,7 @@ footer{background:#f5f9fd;color:#596a7b;padding:40px 0 18px;border-top:1px solid
 .form-honey{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;opacity:0!important;pointer-events:none!important}
 .form-success{margin:12px 0 18px;padding:12px 14px;border:1px solid #b8dec7;border-radius:10px;background:#f1fbf5;color:#176b3a;font-weight:800}
 
-/* Privacy policy */
-.privacy-content{max-width:920px}.privacy-content article{margin-bottom:28px}.privacy-content h2{font-size:1.25rem;margin-bottom:8px}.privacy-content p{line-height:1.75}.footer-sep{margin:0 8px}.bottom a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.brand-grid-expanded{grid-template-columns:repeat(6,minmax(0,1fr));gap:14px}
+@media (max-width:1100px){.brand-grid-expanded{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media (max-width:760px){.brand-grid-expanded{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:520px){.brand-grid-expanded{grid-template-columns:repeat(2,minmax(0,1fr))}}

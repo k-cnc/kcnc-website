@@ -22,3 +22,6 @@ Replace contact placeholders in `contact.html` and set `KCNC_EMAIL` in `js/scrip
 
 
 Machine manufacturer coverage added: Mazak, Makino, Okuma, Kitamura, Sodick, Mitsui Seiki, Matsuura, OKK and LMW. Manufacturer names indicate technical familiarity only and do not imply representation.
+
+
+September 2026 manufacturer coverage update: added APEC, AWEA, HERMLE, HURON, I.M.S.A., DMG MORI, Mitsubishi Wire EDM, Mitsubishi EDM and Sodick EDM to the independent technology-experience sections.
