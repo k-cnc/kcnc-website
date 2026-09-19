@@ -38,3 +38,10 @@ September 2026 manufacturer coverage update: added APEC, AWEA, HERMLE, HURON, I.
 
 
 ERP update (19 Sep 2026): Added production-monitoring-planning.html and homepage/services references for customised CNC machine-shop Production Monitoring & Planning (ERP) software. Existing KCNC logo and blue/navy/sky-blue/silver/white theme retained.
+
+
+Professional information architecture refresh — 19 Sep 2026
+- Homepage rebuilt around three connected KCNC capabilities: CNC & Manufacturing Consultancy, CNC Technology Evaluation, and KCNC Manufacturing ERP.
+- Main navigation simplified to Home, About KCNC, Consultancy, CNC Technology, Manufacturing ERP, Industries, Resources, Contact.
+- Existing application, manufacturer, technology, legal, contact, service coverage and ERP information retained.
+- Official KCNC logo and established blue/navy/sky-blue/silver/white identity retained.
