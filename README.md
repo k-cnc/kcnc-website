@@ -35,3 +35,6 @@ September 2026 manufacturer coverage update: added APEC, AWEA, HERMLE, HURON, I.
 - Adds a privacy acknowledgement checkbox to the contact form.
 - No Cloudflare Web Analytics token is embedded because no site token was supplied. Enable Web Analytics in Cloudflare and add its generated beacon only when available.
 - Legal pages are general website text and should be reviewed by counsel for any jurisdiction-specific requirements.
+
+
+ERP update (19 Sep 2026): Added production-monitoring-planning.html and homepage/services references for customised CNC machine-shop Production Monitoring & Planning (ERP) software. Existing KCNC logo and blue/navy/sky-blue/silver/white theme retained.
