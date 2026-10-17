@@ -45,3 +45,5 @@ Professional information architecture refresh — 19 Sep 2026
 - Main navigation simplified to Home, About KCNC, Consultancy, CNC Technology, Manufacturing ERP, Industries, Resources, Contact.
 - Existing application, manufacturer, technology, legal, contact, service coverage and ERP information retained.
 - Official KCNC logo and established blue/navy/sky-blue/silver/white identity retained.
+
+V5: Added responsive illustrative ERP and AI Quotation interface previews to software pages. Screens are concept illustrations with fictional data, not actual product screenshots.
