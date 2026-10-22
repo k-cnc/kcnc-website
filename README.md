@@ -47,3 +47,5 @@ Professional information architecture refresh — 19 Sep 2026
 - Official KCNC logo and established blue/navy/sky-blue/silver/white identity retained.
 
 V5: Added responsive illustrative ERP and AI Quotation interface previews to software pages. Screens are concept illustrations with fictional data, not actual product screenshots.
+
+V6 (22 Oct 2026): Added KCNC Manufacturing Process Management third product page and illustrative operation-routing UI. Demo video placeholders are intentionally not playable until approved real media is supplied.
