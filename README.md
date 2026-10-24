@@ -49,3 +49,5 @@ Professional information architecture refresh — 19 Sep 2026
 V5: Added responsive illustrative ERP and AI Quotation interface previews to software pages. Screens are concept illustrations with fictional data, not actual product screenshots.
 
 V6 (22 Oct 2026): Added KCNC Manufacturing Process Management third product page and illustrative operation-routing UI. Demo video placeholders are intentionally not playable until approved real media is supplied.
+
+V7: Three silent 2-minute illustrative MP4 walkthroughs embedded in the three software product pages. All content is fictional example UI, not actual product footage.
