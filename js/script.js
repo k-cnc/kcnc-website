@@ -3,12 +3,17 @@ const y=document.getElementById('year');if(y)y.textContent=new Date().getFullYea
 const success=document.getElementById('form-success');
 if(success&&new URLSearchParams(window.location.search).get('submitted')==='1'){success.hidden=false;success.scrollIntoView({behavior:'smooth',block:'center'});}
 
-// Compose a message locally; customer must confirm Send in WhatsApp.
-const waForm=document.getElementById('kcnc-wa-form');
-if(waForm)waForm.addEventListener('submit',function(ev){
-  ev.preventDefault();if(!waForm.reportValidity())return;
-  const data=new FormData(waForm);
-  const message=['Hello KCNC Engineering & Consultancy,','Name: '+(data.get('name')||''),'Company: '+(data.get('company')||'Not specified'),'Interested in: '+(data.get('topic')||''),'Requirement: '+(data.get('message')||'')].join('\n');
-  const url='https://wa.me/919585926248?text='+encodeURIComponent(message);
-  window.location.href=url;
-});
+// Populate the enquiry fields from links on software pages.
+const emailForm=document.getElementById('kcnc-email-form');
+if(emailForm){
+  const params=new URLSearchParams(window.location.search);
+  for(const key of ['name','company','topic','message']){
+    const field=emailForm.elements.namedItem(key);
+    const incoming=params.get(key);
+    if(field && incoming){
+      if(field.tagName==='SELECT'){
+        if([...field.options].some(option=>option.value===incoming)) field.value=incoming;
+      }else field.value=incoming.slice(0,field.maxLength>0?field.maxLength:3000);
+    }
+  }
+}

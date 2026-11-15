@@ -62,3 +62,13 @@ V7: Three silent 2-minute illustrative MP4 walkthroughs embedded in the three so
 
 ## V8.1 — Manufacturer links fix (15 November 2026)
 All 22 manufacturer tiles on the homepage are now full-area external links opening official manufacturer websites in a new tab. Manufacturer reference cards are also clickable. No redesign or changes to contact settings.
+
+
+## V8.2 email enquiry form (15 November 2026)
+- Changed the Contact page right-hand panel from WhatsApp composition to email enquiry form.
+- Required: full name, email address, international contact number, requirement, privacy acknowledgement. Company optional.
+- Submits with POST through FormSubmit to info@kcnc.in; protects against a static-site fake success by relying on the form service redirect.
+- IMPORTANT: FormSubmit requires account/address activation/verification. Check info@kcnc.in for the FormSubmit activation request, including spam/junk. If not activated, delivery is NOT verified. Test after upload with an external email address before considering the form operational.
+- WhatsApp remains a separate contact link; the site's public telephone numbers remain hidden.
+- Software product enquiry links continue to prefill topic/message from URL.
+- No GitHub/Cloudflare DNS/Titan MX changes.

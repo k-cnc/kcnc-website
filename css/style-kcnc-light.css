@@ -138,3 +138,12 @@ footer{background:#f5f9fd;color:#596a7b;padding:40px 0 18px;border-top:1px solid
 .reference-card { position:relative; }
 .reference-card .machine-link::after { content:""; position:absolute; inset:0; }
 .reference-card:focus-within { outline:2px solid #2266bd; outline-offset:3px; }
+
+/* KCNC V8.2 — Email enquiry form */
+.kcnc-email-form select{width:100%;padding:13px;margin-top:6px;border:1px solid #c9d6e2;border-radius:10px;background:white;color:#24435f;font:inherit}
+.kcnc-email-form label:not(.consent){font-size:13px;font-weight:800;letter-spacing:0}
+.kcnc-email-form .consent{font-size:13px;font-weight:400;line-height:1.55}
+.kcnc-email-form .consent input{flex:0 0 auto;accent-color:#0867c8}
+.kcnc-email-submit{margin-top:4px;background:#0867c8!important;color:white!important;min-width:160px}
+.kcnc-email-submit:hover{background:#064e9e!important}
+.kcnc-form-note{margin-top:12px;line-height:1.6}
