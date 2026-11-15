@@ -17,8 +17,8 @@ Replace contact placeholders in `contact.html` and set `KCNC_EMAIL` in `js/scrip
 
 ## Configured business contact
 - Email: info@kcnc.in
-- Phone / WhatsApp: +91 95859 26248 / +27 83 966 8702
-- Locations: Coimbatore, Tamil Nadu, India & Johannesburg, South Africa
+- WhatsApp contact: India number only (not displayed on website; used in click-to-chat links)
+- Location shown: Coimbatore, Tamil Nadu, India only
 
 
 Machine manufacturer coverage added: Mazak, Makino, Okuma, Kitamura, Sodick, Mitsui Seiki, Matsuura, OKK and LMW. Manufacturer names indicate technical familiarity only and do not imply representation.
@@ -51,3 +51,11 @@ V5: Added responsive illustrative ERP and AI Quotation interface previews to sof
 V6 (22 Oct 2026): Added KCNC Manufacturing Process Management third product page and illustrative operation-routing UI. Demo video placeholders are intentionally not playable until approved real media is supplied.
 
 V7: Three silent 2-minute illustrative MP4 walkthroughs embedded in the three software product pages. All content is fictional example UI, not actual product footage.
+
+## V8 — Contact update (15 Nov 2026)
+- Contact page and floating WhatsApp link support mobile, WhatsApp Web, and desktop.
+- All website enquiry contact links use only the approved Indian WhatsApp number. No phone numbers displayed.
+- Location shown only as Coimbatore, Tamil Nadu, India.
+- Consultancy service coverage continues to read India, Saudi Arabia and UAE.
+- WhatsApp enquiry form creates message on-device; visitor must send it in WhatsApp.
+- Existing three demonstration videos retained.
