@@ -59,3 +59,6 @@ V7: Three silent 2-minute illustrative MP4 walkthroughs embedded in the three so
 - Consultancy service coverage continues to read India, Saudi Arabia and UAE.
 - WhatsApp enquiry form creates message on-device; visitor must send it in WhatsApp.
 - Existing three demonstration videos retained.
+
+## V8.1 — Manufacturer links fix (15 November 2026)
+All 22 manufacturer tiles on the homepage are now full-area external links opening official manufacturer websites in a new tab. Manufacturer reference cards are also clickable. No redesign or changes to contact settings.
